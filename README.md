@@ -17,7 +17,7 @@ Hi, I'm Sagar pallai, a passionate and Aspiring Data Scientist. I am enhancing m
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Sagar pallai](https://twitter.com/sagarpallai1997);
-- ✨ **Discord?** [calendly](https://calendly.com/ketangangal)
+- ✨ **Wanatalk** [calendly](https://calendly.com/sagarpallai1997)
 - 📝 [Resume]()
 
 

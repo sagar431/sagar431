@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Pytorch**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/sagardatascientist/home](https://sites.google.com/view/sagardatascientist/home)
+- 👨‍💻 All of my projects are available at [https://www.sagarpallai.info/home](https://www.sagarpallai.info)
 
 - 📝 I regularly write articles on [https://medium.com/@sagarpallai1997](https://medium.com/@sagarpallai1997)
 

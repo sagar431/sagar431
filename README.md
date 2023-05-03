@@ -31,5 +31,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sagar431&show_icons=true&locale=en" alt="sagar431" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sagar431&" alt="sagar431" /></p>
-
-

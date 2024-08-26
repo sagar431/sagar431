@@ -3,20 +3,49 @@
 <h1 align="center">Hi 👋, I'm Sagar Pallai</h1>
 <h3 align="center">An AI Engineer in Training | School of AI Student | Data Science Enthusiast</h3>
 
-<img align="right" alt="AI" width="400" src="https://user-images.githubusercontent.com/37551474/113611467-3a567d80-9657-11eb-862b-b07b4f105c6f.gif">
-
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=sagar431&label=Profile%20views&color=0e75b6&style=flat" alt="sagar431" />
 </p>
 
-- 🎓 I'm currently studying in the **School of AI's intensive artificial intelligence course**
-- 🔭 I'm working on various **AI projects and assignments** throughout the course
-- 🌱 I'm currently learning **PyTorch, Transformers, YOLO, and Reinforcement Learning**
-- 👨‍💻 Check out my course progress and projects: [AI Learning Journey](https://github.com/yourusername/ai-learning-journey)
-- 📝 I document my learning experiences on [Medium](https://medium.com/@sagarpallai1997)
-- 💬 Ask me about **Neural Networks, Computer Vision, NLP, and AI Ethics**
-- 📫 Reach me at: **sagarpallai1997@gmail.com**
-- ⚡ Fun fact: **I'm passionate about using AI to solve real-world problems!**
+<p align="center">
+  <a href="https://sagar431.github.io/sagar.github.io/">Website: sagar431.github.io/sagar.github.io/</a>
+</p>
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│   🧠 Artificial General Intelligence (AGI) Enthusiast   │
+│                                                         │
+│   ┌───────┐    ┌───────┐    ┌───────┐    ┌───────┐      │
+│   │ Learn │ ─► │ Model │ ─► │ Adapt │ ─► │Improve│      │
+│   └───────┘    └───────┘    └───────┘    └───────┘      │
+│        │                                      ▲         │
+│        └──────────────────────────────────────┘         │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RESUME-A020F0?style=for-the-badge" alt="Resume" />
+  <img src="https://img.shields.io/badge/SAGAR_PALLAI-FF1493?style=for-the-badge" alt="Sagar Pallai" />
+  <img src="https://img.shields.io/badge/UNIVERSITY_WORK-4169E1?style=for-the-badge" alt="University Work" />
+  <img src="https://img.shields.io/badge/PROJECTS-FFD700?style=for-the-badge" alt="Projects" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/COMPUTER_VISION--DEEP_LEARNING-20B2AA?style=for-the-badge" alt="Computer Vision-Deep Learning" />
+  <img src="https://img.shields.io/badge/COMPETITIVE_PROGRAMMING-00FA9A?style=for-the-badge" alt="Competitive Programming" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 ### 🧠 AI Course Highlights
 
@@ -37,30 +66,25 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar431&theme=radical" alt="Sagar's GitHub streak" />
 </p>
 
-### 🛠️ AI & Data Science Stack
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FF9A00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│                 AI & Data Science Stack                 │
+│                                                         │
+│  ┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐  │
+│  │ Python  │   │ PyTorch │   │ TensorF │   │  Scikit │  │
+│  └─────────┘   └─────────┘   └─────────┘   └─────────┘  │
+│                                                         │
+│  ┌─────────┐   ┌─────────┐   ┌─────────┐   ┌─────────┐  │
+│  │ HuggingF│   │ OpenCV  │   │   AWS   │   │   Git   │  │
+│  └─────────┘   └─────────┘   └─────────┘   └─────────┘  │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
 
-### 📈 AI Learning Progress
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sagar431&layout=compact&theme=radical" alt="Sagar's WakaTime stats" />
-</p>
-
-### 🏆 AI Course Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sagar431&theme=darkhub&no-frame=true&row=1&column=6" alt="Sagar's GitHub Trophies" />
-</p>
+</div>
 
 ### 📝 Latest AI Learning Reflections
 
@@ -76,6 +100,24 @@
 - 📚 Deep dive into Reinforcement Learning and its real-world applications
 - 🌐 Contribute to open-source AI projects
 - 📝 Publish a research paper on [specific AI topic of interest]
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│                 Connect and Collaborate                 │
+│                                                         │
+│     🌐 ──────── 🤖 ──────── 🧠 ──────── 💻 ──────── 📊  │
+│     │           │           │           │           │   │
+│     └─── 📱 ────┴─── 🔬 ────┴─── 📚 ────┴─── 🌟 ────┘   │
+│                                                         │
+│        Let's advance AI together! Connect with me       │
+│                                                         │
+└─────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ### 🤝 Connect with me
 

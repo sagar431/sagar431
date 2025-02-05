@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sagar431.github.io/sagar.github.io/">Website: sagar431.github.io/sagar.github.io/</a>
+  <a href="https://sagaragi.in/">Website: sagar431.github.io/sagar.github.io/</a>
 </p>
 
 <div align="center">

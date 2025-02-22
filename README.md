@@ -1,106 +1,123 @@
-# Hi there, I'm Sagar Pallai 👨‍💻
+# Hi there, I'm Sagar Pallai 👨‍💻 | AI Innovator Unleashed
 
-[![Website](https://img.shields.io/badge/Website-sagaragi.in-blue?style=flat-square&logo=google-chrome)](https://sagaragi.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sagar--pallai-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/sagar-pallai)
-[![Twitter](https://img.shields.io/badge/Twitter-@SagarPallai-blue?style=flat-square&logo=twitter)](https://twitter.com/SagarPallai)
-[![Medium](https://img.shields.io/badge/Medium-@sagarpallai1997-black?style=flat-square&logo=medium)](https://medium.com/@sagarpallai1997)
+<div align="center">
+  
+[![Website](https://img.shields.io/badge/Website-sagaragi.in-blue?style=for-the-badge&logo=google-chrome)](https://sagaragi.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-sagar--pallai-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sagar-pallai)
+[![Twitter](https://img.shields.io/badge/Twitter-@SagarPallai-blue?style=for-the-badge&logo=twitter)](https://twitter.com/SagarPallai)
+[![Medium](https://img.shields.io/badge/Medium-@sagarpallai1997-black?style=for-the-badge&logo=medium)](https://medium.com/@sagarpallai1997)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork)](https://www.upwork.com/freelancers/~01f0b7d8f8a3b9e2a3)
 
-## 🤖 AI Engineer | 🎓 ML Practitioner | 💡 Problem Solver
+</div>
+
+## About Me 🚀
 
 ```python
-class AIEngineer:
+class SagarPallaiAI:
     def __init__(self):
         self.name = "Sagar Pallai"
-        self.role = "AI Engineer in Training"
-        self.language_spoken = ["Hindi", "English"]
-        self.code = ["Python", "SQL", "PyTorch", "TensorFlow"]
-        self.tools = ["Docker", "MLflow", "DVC", "Hydra"]
-        self.interests = ["AGI", "Computer Vision", "LLMs", "MLOps"]
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+        self.role = "AI Engineer & ML Innovator"
+        self.education = "MSc in Computer Science (AI & ML)"
+        self.skills = ["PyTorch", "TensorFlow", "Hugging Face", "AWS", "Docker"]
+        self.expertise = ["LLMs", "Computer Vision", "MLOps", "Generative AI"]
+        self.passion = "Crafting Enterprise-Grade AI Solutions"
 
-me = AIEngineer()
-me.say_hi()
+    def current_focus(self):
+        return "Building cutting-edge AI systems that transform industries!"
+
+me = SagarPallaiAI()
 ```
+
+I'm an AI Engineer with a passion for crafting innovative solutions using cutting-edge technology. Currently pursuing my Master's in Computer Science (AI & ML) from Woolf University, I bring hands-on experience from roles at Upwork, National Informatics Center, and Omdena.
 
 ## 🛠️ Tech Stack & Tools
 
-## 🛠 Skills
-![AIM](https://img.shields.io/badge/-AIM-FF6F61?style=flat&logo=aim&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Continuous ML](https://img.shields.io/badge/-Continuous%20ML-5A9E6F?style=flat&logo=gitlab&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data%20Science-3498DB?style=flat&logo=anaconda&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![DVC](https://img.shields.io/badge/-DVC-13ADC7?style=flat&logo=dvc&logoColor=white)
-![Generative AI](https://img.shields.io/badge/-Generative%20AI-FF5733?style=flat&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black)
-![Hydra](https://img.shields.io/badge/-Hydra-0092CC?style=flat&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-121011?style=flat&logo=chain&logoColor=white)
-![LLMs](https://img.shields.io/badge/-LLMs-000000?style=flat&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logo=machine-learning&logoColor=white)
-![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![MLOps](https://img.shields.io/badge/-MLOps-FF6F61?style=flat&logo=kubernetes&logoColor=white)
-![Object Detection](https://img.shields.io/badge/-Object%20Detection-34495E?style=flat&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![PyTorch Lightning](https://img.shields.io/badge/PyTorch--Lightning-792EE5?style=flat&logo=lightning&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+### AI/ML Ecosystem
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square)
 
-### MLOps & Development Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=python&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-13ADC7?style=for-the-badge&logo=dvc&logoColor=white)
-![Hydra](https://img.shields.io/badge/Hydra-0092CC?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### MLOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
 
-## 📊 GitHub Stats
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagar431&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar431&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-## 🎯 Featured Projects
+## 🌟 Featured Projects
 
 ### 🤖 LLM & NLP Projects
-<!-- Replace these with links to your own repositories -->
-- [Your LLM Project] - Brief description of your LLM implementation
-- [Your NLP Project] - Brief description of your NLP work
+- **EpicAI: Story Generator**
+  - Built with GPT-2 on Hugging Face Spaces
+  - 40% boost in content generation speed
+  - 40% reduction in latency
 
-### 👁️ Computer Vision
-<!-- Replace these with links to your own repositories -->
-- [Your CV Project] - Brief description of your computer vision work
-- [Your Image Processing Project] - Brief description of your image processing work
+- **PhiChat: Enterprise Chatbot**
+  - Powered by Microsoft's Phi-2
+  - 35% improvement in response relevance
+  - 75% reduction in compute costs
 
-### 🔧 MLOps & Infrastructure
-<!-- Replace these with links to your own repositories -->
-- [Your MLOps Project] - Brief description of your ML pipeline
-- [Your ML Infrastructure Project] - Brief description of your infrastructure work
+### 👁️ Computer Vision Projects
+- **AI Art Generation Platform**
+  - Stable Diffusion v1.4 integration
+  - 7 unique artistic styles
+  - Real-time art generation with CLIP
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [My Journey Through Neural Network Architectures](https://medium.com/@sagarpallai1997/my-journey-through-neural-network-architectures)
-- [Implementing YOLO for Object Detection: Lessons Learned](https://medium.com/@sagarpallai1997/implementing-yolo-for-object-detection-lessons-learned)
-- [Exploring the Power of Transformers in NLP](https://medium.com/@sagarpallai1997/exploring-the-power-of-transformers-in-nlp)
-<!-- BLOG-POST-LIST:END -->
+- **Secure Exam Platform**
+  - YOLO-based face detection
+  - 30% improvement in system reliability
+  - 20% reduction in false positives
 
-## 🎓 Continuous Learning
-- Currently exploring: Advanced Reinforcement Learning
-- Working on: Research paper on transformer architectures
-- Learning: Large Language Models and their applications
-
----
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sagar431&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <h4>💼 Open to collaboration on AI/ML projects!</h4>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sagar431&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar431&layout=compact&langs_count=8&theme=dracula"/>
+</div>
+
+## 📚 Latest Blog Posts
+- [Cracking Neural Network Architectures](https://medium.com/@sagarpallai1997)
+- [YOLO Object Detection: My Epic Journey](https://medium.com/@sagarpallai1997)
+- [Transformers Unleashed in NLP](https://medium.com/@sagarpallai1997)
+
+## 🎓 Education & Experience
+
+**Education**
+- MSc in Computer Science (AI & ML) - Woolf University (2025)
+- BTech in Civil Engineering - Odisha University of Technology and Research (2021)
+
+**Experience**
+- **Upwork Freelancer** (2024)
+  - Engineered multi-modal LLMs with CLIP
+  - 15% improvement in image-to-text tasks
+
+- **Data Scientist Intern, NIC** (2022-2023)
+  - Built secure exam systems
+  - 30% improvement in system reliability
+
+- **Research Intern, Omdena** (2021)
+  - Optimized Word2Vec for e-commerce
+  - 30% boost in recommendation accuracy
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-sagarpallai1997%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sagarpallai1997@gmail.com)
+[![Phone](https://img.shields.io/badge/Phone-%2B91--9040276323-green?style=for-the-badge&logo=phone)](tel:+919040276323)
+[![GitHub](https://img.shields.io/badge/GitHub-sagar431-black?style=for-the-badge&logo=github)](https://github.com/sagar431)
+
+**💼 Open for AI/ML collaborations! Let's build something innovative together!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=sagar431&label=Profile%20views&color=0e75b6&style=flat)
+
 </div>
 
 ```ascii
-     AI      🧠      ML      📊      DL
-     │       │       │       │       │
-     └───────┴───────┴───────┴───────┘
-          Let's innovate together!
+     🌐      🧠      🚀      AI      ML      DL
+     │       │       │       │       │       │
+     └───────┴───────┴───────┴───────┴───────┘
+          Let's create enterprise-grade AI magic together!
 ```

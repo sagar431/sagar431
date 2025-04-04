@@ -18,27 +18,7 @@
 ## <div align="center">🧠 Building the Future with AI, One Model at a Time 💡</div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%" valign="top" align="left">
-        <p>Hey there! I'm <strong>Sagar Pallai</strong>, an AI Engineer and ML Innovator deeply passionate about crafting enterprise-grade AI solutions. My expertise spans areas like <strong>LLMs, Computer Vision, MLOps, and Generative AI</strong>. I thrive on solving complex problems and pushing the boundaries of what's possible with artificial intelligence.</p>
-        <p>Currently pursuing my <strong>MSc in Computer Science (AI & ML)</strong> from Woolf University, I bring hands-on experience from roles at Upwork, National Informatics Center, and Omdena. I'm proficient with tools like <strong>PyTorch, TensorFlow, Hugging Face, AWS, and Docker</strong>.</p>
-        <p>My current mission? 👉 <strong>Building transformative AI systems!</strong></p>
-        <br>
-        <details>
-          <summary><b> sedikit lagi tentang saya (A bit more about me)</b></summary>
-          <br>
-          <blockquote>
-            <i>"AI is not just about algorithms; it's about solving real-world problems and creating meaningful impact."</i>
-          </blockquote>
-          <p>I believe in the power of collaboration and continuous learning to stay ahead in this rapidly evolving field. Whether it's optimizing a model for performance or architecting a scalable MLOps pipeline, I enjoy the entire lifecycle of AI development.</p>
-        </details>
-      </td>
-      <td width="40%" valign="top" align="center">
-        <img alt="Coding GIF" style="max-width: 100%; height: auto; border-radius: 8px;" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
-      </td>
-    </tr>
-  </table>
+  <img alt="Coding GIF" style="width: 100%; max-width: 100%; height: auto; border-radius: 8px;" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif">
 </div>
 
 <br clear="both"/>

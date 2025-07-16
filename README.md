@@ -5,8 +5,7 @@
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6B46C1&center=true&vCenter=true&random=false&width=435&lines=AI+Engineer;ML+Innovator;Researcher;Problem+Solver;Lifelong+Learner)
 
   <p>
-    <a href="https://sagaragi.in/"><img alt="Website" src=""></a>
-    <a href="https://linkedin.com/in/sagar-pallai"><img alt="LinkedIn" src=""></a>
+   
     <a href="https://twitter.com/SagarPallai"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-@SagarPallai-blue?style=for-the-badge&logo=twitter"></a>
     <a href="https://medium.com/@sagarpallai1997"><img alt="Medium" src="https://img.shields.io/badge/Medium-@sagarpallai1997-black?style=for-the-badge&logo=medium"></a>
     <a href="https://www.upwork.com/freelancers/~01f0b7d8f8a3b9e2a3"><img alt="Upwork" src="https://img.shields.io/badge/Upwork-Hire%20Me-green?style=for-the-badge&logo=upwork"></a>

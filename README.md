@@ -14,8 +14,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Building+AI+Agents+from+First+Principles;Architecting+the+Future+of+Autonomous+Systems;Where+MLOps+Meets+AgentOps" alt="Typing SVG" />
   </p>
 
-  <a href="https://twitter.com/SagarPallai"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://medium.com/@sagarpallai1997"><img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://x.com/sagar_agi007"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
   <a href="https://github.com/sagar431"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </div>
@@ -233,8 +232,8 @@ graph LR
   <img src="https://img.shields.io/badge/Email-sagarpallai1997@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://twitter.com/SagarPallai">
-  <img src="https://img.shields.io/badge/DM_on_Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+<a href="https://x.com/sagar_agi007">
+  <img src="https://img.shields.io/badge/DM_on_X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 <br><br>

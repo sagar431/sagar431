@@ -202,7 +202,7 @@ class SagarPhilosophy:
 
 <br>
 
-## 🧠 2026: Training the Neural Network
+## 🧠 2026: Building AI Agents & MLOps from Scratch
 
 <div align="center">
 
@@ -213,54 +213,14 @@ class SagarPhilosophy:
 <br>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7btNhMBytxAM6YBa/giphy.gif" width="250" alt="Neural Network"/>
-  <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="250" alt="AI Learning"/>
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250" alt="Data Flow"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=500&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%3E+Initializing+Agent+Training+Pipeline...;%3E+Loading+perception+module...+%E2%9C%93;%3E+Connecting+memory+infrastructure...+%E2%9C%93;%3E+Activating+decision+engine...+%E2%9C%93;%3E+Agent+ready.+Awaiting+commands.+%F0%9F%9A%80" alt="Terminal Animation" />
 </div>
-
-<br>
-
-```
-                    ┌─────────────────────────────────────────────────────────┐
-                    │                   🎮 AGENT TRAINING                     │
-                    └─────────────────────────────────────────────────────────┘
-                                            │
-                    ╔═══════════════════════▼═══════════════════════╗
-                    ║  INPUT LAYER                                  ║
-                    ║  ○ ── ○ ── ○ ── ○ ── ○                       ║
-                    ║  │    │    │    │    │      Natural Language  ║
-                    ╠══╪════╪════╪════╪════╪═══════════════════════╣
-                    ║  │╲  ╱│╲  ╱│╲  ╱│╲  ╱│                       ║
-                    ║  │ ╲╱ │ ╲╱ │ ╲╱ │ ╲╱ │      HIDDEN LAYER 1   ║
-                    ║  ◉ ── ◉ ── ◉ ── ◉ ── ◉      Perception       ║
-                    ║  │╲  ╱│╲  ╱│╲  ╱│╲  ╱│                       ║
-                    ╠══╪═╲╱═╪═╲╱═╪═╲╱═╪═╲╱═╪═══════════════════════╣
-                    ║  │ ╱╲ │ ╱╲ │ ╱╲ │ ╱╲ │      HIDDEN LAYER 2   ║
-                    ║  ◉ ── ◉ ── ◉ ── ◉ ── ◉      Memory + Decision║
-                    ║  │╲  ╱│╲  ╱│╲  ╱│╲  ╱│                       ║
-                    ╠══╪═╲╱═╪═╲╱═╪═╲╱═╪═╲╱═╪═══════════════════════╣
-                    ║     ╲╱   ╲╱   ╲╱   ╲╱                        ║
-                    ║      ○ ── ○ ── ○                              ║
-                    ║  OUTPUT LAYER        Action Execution         ║
-                    ╚══════════════════════════════════════════════╝
-                                            │
-                    ┌───────────────────────▼───────────────────────┐
-                    │  🚀 Deploy │ 🐳 Docker │ ☸️ K8s │ 📊 Monitor  │
-                    └───────────────────────────────────────────────┘
-
-    ┌──────────────────┐    ┌──────────────────┐    ┌──────────────────┐
-    │ EPISODE 1        │    │ EPISODE 2        │    │ EPISODE 3        │
-    │ ██████████ 100%  │───▶│ ████████░░  80%  │───▶│ ████░░░░░░  40%  │
-    │ MLOps Basics     │    │ Agent Loops      │    │ Multi-Agent      │
-    │ ✓ MASTERED       │    │ ◐ TRAINING...    │    │ ○ QUEUED         │
-    └──────────────────┘    └──────────────────┘    └──────────────────┘
-```
 
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<sub>⚡ Like training a neural network — each epoch brings us closer to AGI 🧠</sub>
+<sub>⚡ Like training a neural network — each epoch brings us closer to autonomous systems 🧠</sub>
 
 </div>
 
